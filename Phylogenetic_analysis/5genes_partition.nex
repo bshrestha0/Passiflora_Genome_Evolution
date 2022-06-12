@@ -1,0 +1,13 @@
+#nexus
+begin sets;
+	charset msh1_1 = 1-3480\3 2-3480\3;
+	charset msh1_2 = 3-3480\3;
+	charset mcm5_1 = 3481-5679\3 3482-5679\3 ;
+	charset mcm5_2 = 3483-5679\3;
+	charset mlh1_1 = 5680-7947\3 5681-7947\3;
+	charset mlh1_2 = 5682-7947\3;
+	charset scm1_1 = 7948-11622\3 7949-11622\3;
+	charset scm1_2 = 7950-11622\3;
+	charset scm2_1 = 11623-15151\3 11624-15151\3;
+	charset scm2_2 = 11625-15151\3;	
+end;
